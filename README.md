@@ -3,9 +3,20 @@
 <h3> Бизнес-аналитик и оптимизатор 👋</h3>
 </div>
 
-<a href="telegram-url">
-  <img src="https://t.me/@ivan0208" alt="Telegram"/>
-</a>
+<div id="socials" align="center">
+    <a href="linkedin-url">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="twitter-url">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://t.me/ivan0208">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </ а>
+</div>
+
+## 💫 О себе
+Меня зовут Иван, я бизнес-аналитик с 10 летним опытом работы. Специализируюсь на анализе данных, оптимизации бизнес-процессов и разработке стратегий эффективности.
 
 ## Hi there 👋
 
