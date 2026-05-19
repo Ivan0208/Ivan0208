@@ -1,51 +1,87 @@
-<div id="header" align="center" >
-  <h1> Привет, я Иван! </h1>
-<h3> Бизнес-аналитик и оптимизатор бизнес-процессов 👋</h3>
-</div>
+<h1 align="center">Иван Секерин</h1>
 
-<div id="socials" align="center">
-    <a href="linkedin-url">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="twitter-url">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://t.me/ivan0208">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </ а>
-</div>
-
-## 💫 О себе
-Меня зовут Иван, я бизнес-аналитик с 10 летним опытом работы. Специализируюсь на анализе данных, оптимизации бизнес-процессов и разработке стратегий эффективности.
-
-## Hi there 👋
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-<!--
-**Ivan0208/Ivan0208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-# 📊 GitHub Stats:
-<p align='center'>
-   <a href="https://github-readme-stats.vercel.app/api?username=Ivan0208&theme=dark&hide_border=false&include_all_commits=false&count_private=false)">
-       <img height=150 src="https://github-readme-stats.vercel.app/api?username=Ivan0208&show_icons=true&count_private=true"/></a>
-   <a href="https://github.com/Ivan0208/github-readme-stats">
-       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ivan0208&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/></a>
+<p align="center">
+  <strong>Бизнес-аналитик | Data Analytics | Оптимизация бизнес-процессов</strong>
 </p>
 
----
-[![](https://visitcount.itsvg.in/api?id=Ivan0208&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <a href="https://github.com/Ivan0208">GitHub</a> ·
+  <a href="https://t.me/ivan0208">Telegram</a> ·
+  <a href="https://github.com/Ivan0208/ecn-monitoring">Ключевой проект</a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Business_Analysis-1f6feb?style=for-the-badge" alt="Business Analysis" />
+  <img src="https://img.shields.io/badge/Data_Analytics-0f766e?style=for-the-badge" alt="Data Analytics" />
+  <img src="https://img.shields.io/badge/Process_Optimization-7c3aed?style=for-the-badge" alt="Process Optimization" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+</p>
+
+## Профессиональный профиль
+
+Бизнес-аналитик с 10-летним опытом в анализе данных, описании и оптимизации бизнес-процессов. Сильная сторона — переводить операционные данные и требования бизнеса в понятные метрики, диагностические правила, дашборды и практические рекомендации для принятия решений.
+
+Сейчас фокусируюсь на прикладной аналитике, Python-автоматизации, обработке Excel/XLSX-данных, визуализации и создании инструментов для мониторинга технических и бизнес-показателей.
+
+## Чем полезен работодателю
+
+- Быстро разбираюсь в предметной области и превращаю разрозненные данные в управляемую систему показателей.
+- Описываю требования так, чтобы их можно было реализовать, проверить и использовать в работе.
+- Автоматизирую ручную аналитику: загрузка данных, очистка, расчет метрик, контроль отклонений, отчеты.
+- Строю дашборды и аналитические инструменты, которые помогают видеть риски, приоритеты и динамику.
+- Соединяю бизнес-логику, данные и техническую реализацию без потери смысла для пользователей.
+
+## Ключевые компетенции
+
+| Область | Практический фокус |
+|---|---|
+| Бизнес-анализ | требования, процессы, KPI, регламенты, user stories, постановка задач |
+| Аналитика данных | очистка данных, расчет метрик, поиск отклонений, тренды, интерпретация результатов |
+| Автоматизация | Python-скрипты, обработка Excel/XLSX, повторяемые пайплайны, снижение ручного труда |
+| Визуализация | интерактивные графики, дашборды, управленческие отчеты |
+| Техническая аналитика | мониторинг оборудования, диагностические правила, риск-индикаторы, рекомендации |
+
+## Ключевой проект
+
+### [Мониторинг ЭЦН — MVP](https://github.com/Ivan0208/ecn-monitoring)
+
+Система автоматической обработки данных и диагностики состояния электроцентробежных насосов с веб-интерфейсом на Streamlit.
+
+**Задача:** сократить ручную работу с XLSX-файлами станций управления и дать технологу быстрый обзор состояния установки, рисков и рекомендаций.
+
+**Что реализовано:**
+
+- автоматическое определение формата файлов ЧРП/ПЧ и КСУ Новомет;
+- парсинг Excel/XLSX-данных и сохранение обработанной информации;
+- диагностика по пороговым значениям и трендам;
+- комплексный индекс состояния установки Run Life Index;
+- интерактивный веб-дашборд с метриками, графиками и статусами;
+- рекомендации технологу по выявленным отклонениям;
+- экспериментальный AI-эксперт для формирования отчета по выбранной скважине.
+
+**Стек:** Python, pandas, NumPy, SciPy, openpyxl, SQLite, YAML, Plotly, Streamlit, requests.
+
+## Технологии
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" alt="Plotly" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+</p>
+
+## Что посмотреть в первую очередь
+
+- [README проекта мониторинга ЭЦН](https://github.com/Ivan0208/ecn-monitoring/blob/main/README.md) — описание бизнес-задачи, функций и логики работы.
+- [app.py](https://github.com/Ivan0208/ecn-monitoring/blob/main/app.py) — Streamlit-интерфейс и пользовательский сценарий.
+- [modules/data_processing.py](https://github.com/Ivan0208/ecn-monitoring/blob/main/modules/data_processing.py) — обработка и нормализация исходных XLSX-данных.
+- [modules/diagnostics.py](https://github.com/Ivan0208/ecn-monitoring/blob/main/modules/diagnostics.py) — диагностические правила, тренды и индекс состояния.
+
+## Контакты
+
+- Telegram: [@ivan0208](https://t.me/ivan0208)
+- GitHub: [Ivan0208](https://github.com/Ivan0208)
